@@ -6,7 +6,7 @@
     "architecture": {
         "64bit": {
             "url": "https://github.com/pawelb0/mdcat-ng/releases/download/mdcat-ng-0.2.0/mdcat-ng-0.2.0-x86_64-pc-windows-msvc.zip",
-            "hash": "0000000000000000000000000000000000000000000000000000000000000000",
+            "hash": "bfe714347db28969c83ee12466522554d97a0429b560781bc786bb04c4f21684",
             "extract_dir": "mdcat-ng-0.2.0-x86_64-pc-windows-msvc"
         }
     },
