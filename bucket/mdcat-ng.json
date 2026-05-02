@@ -1,13 +1,13 @@
 {
-    "version": "0.2.2",
+    "version": "0.2.3",
     "description": "Cat for markdown: show markdown documents in terminals",
     "homepage": "https://github.com/pawelb0/mdcat-ng",
     "license": "MPL-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/pawelb0/mdcat-ng/releases/download/mdcat-ng-0.2.2/mdcat-ng-0.2.2-x86_64-pc-windows-msvc.zip",
-            "hash": "3b0c134b8082330e087ffc800c92f97afa240a16f5e5dc1d10ba2f4dde2cc3fe",
-            "extract_dir": "mdcat-ng-0.2.2-x86_64-pc-windows-msvc"
+            "url": "https://github.com/pawelb0/mdcat-ng/releases/download/mdcat-ng-0.2.3/mdcat-ng-0.2.3-x86_64-pc-windows-msvc.zip",
+            "hash": "1491284ad774e84e0e263fe7fbc456efba2c437e911e2bed130ee9c52367442a",
+            "extract_dir": "mdcat-ng-0.2.3-x86_64-pc-windows-msvc"
         }
     },
     "bin": [
